@@ -11,5 +11,4 @@ for number in data:
         if fuel <= 0:
             break
         total_additional += fuel
-print(total_fuel)
-print(total_additional)
+print(total_fuel, total_additional)
